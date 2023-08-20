@@ -1,7 +1,7 @@
 # deep-learning-challenge
 Module 21 - Assignment Challenge
 # No Optimization
-    Starter_Code.ipynb
+     Starter_Code.ipynb
         No Optimization Model yeilds 0.725 Accuracy
 
 # Second Optimization
